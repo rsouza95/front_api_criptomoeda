@@ -1,0 +1,17 @@
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    color: red;
+    font-weight: bolder;
+}
+
+span {
+    font-style: oblique;
+}
+
+.item {
+    text-decoration: none;
+    list-style: none;
+}
